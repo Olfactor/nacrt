@@ -1,0 +1,88 @@
+table{
+	text-align:center;
+	font-family:arial;
+}
+
+h1,h3 {
+	text-align:center;
+	text-decoration:black underline;
+	font-family:arial;
+}
+h5,ul,ol {
+	margin:0px 250px 0px 250px;
+	font-family:arial;
+}
+h4{
+	margin:0px 250px 0px 250px;
+	font-weight:bold; 
+	font-family:arial;
+}
+.slika{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	height:400px;
+}
+.slika2{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:20%;
+	height:20%;
+}
+body{
+	background-image: url("Picture/linije.jpg");
+	background-size: cover;
+	
+}
+p{
+	text-align:justify;
+	margin:0px 250px 0px 250px;
+	font-family:arial;
+}
+.tabela{
+	
+	margin-left:auto;
+	margin-right:auto;
+}
+.bar{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	height:10px;
+}
+.sema{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:624px;
+	height:315px;
+}
+header {
+	text-align:center;
+	position:fixed;
+	top:0%;
+	height:4%;
+	width:100%;
+	background-color:#e7e9ea;
+	font-family:arial;
+}
+footer{
+	text-align:center;
+	border-top:4px dotted blue;
+	position: bottom;
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+	font-family:arial;
+}
+.top{
+	color:red; 
+	margin:0px 250px 0px 250px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
